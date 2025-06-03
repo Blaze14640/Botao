@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  background-color: BLACK;
+  margin: 0;
+  padding: 0;
+  color: red;
+}
+
+header {
+  background-color: GREY;
+  color: RED;
+  padding: 65px;
+  text-align: center;
+}
+
+main {
+  padding: 60px;
+  text-align: center;
+}
+
+footer {
+  background-color: WHITE;
+  color: BLACK;
+  padding: 100px;
+  text-align: center;
+}
+
+button {
+  background-color: #e74c3c;
+  color: white;
+  padding: 40px 40px;
+  border: none;
+  cursor: pointer;
+  font-size: 100px;
+  
+}
